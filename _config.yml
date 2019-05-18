@@ -57,11 +57,11 @@ kramdown:
 
 # 评论系统
 # Disqus（https://disqus.com/）
-# disqus_username: qiubaiying
+# disqus_username: LawrenceSama
 
 # Gitalk
 gitalk:
-  enable: true    #是否开启Gitalk评论
+  enable: false    #是否开启Gitalk评论
   clientID: fe82e5d93a1922424580                            #生成的clientID
   clientSecret: 33c32c705d7a8846f46ca88d4f443823152d9b8c    #生成的clientSecret
   repo: LawrenceSama.github.io    #仓库名称
@@ -93,13 +93,3 @@ featured-condition-size: 1              # 相同标签数量大于这个数，�
 # Progressive Web Apps
 chrome-tab-theme-color: "#000000"
 service-worker: true
-
-
-
-# Plug
-url: "http://lawrencesama.github.io" # the base hostname & protocol for your site
-plugins:
-  - jekyll-sitemap
-
-
-encoding: utf-8
