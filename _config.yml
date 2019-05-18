@@ -1,7 +1,7 @@
-# Site settings
+﻿# Site settings
 title: Lawrence Blog
 SEOTitle: Lawrence的博客 | Lawrence Blog
-header-img: img/post-bg-desk.jpg
+header-img: img/post-bg-desk.png
 email: 2674609686@qq.com
 description: "Lawrence的无名小站"
 keyword: "UI设计，PV师，膜法师，Lawrence，Lawrence的博客"
@@ -18,12 +18,12 @@ sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's us
 
 # SNS settings
 RSS: false
-# weibo_username:     qiubaiying
-zhihu_username:     qiubaiying
-github_username:    qiubaiying
-facebook_username:  baiying.qiu.7
-jianshu_username:   e71990ada2fd
-#twitter_username:   qiubaiying
+# weibo_username:     
+zhihu_username:     
+github_username:    
+facebook_username:  
+jianshu_username: 
+#twitter_username:  
 
 
 
